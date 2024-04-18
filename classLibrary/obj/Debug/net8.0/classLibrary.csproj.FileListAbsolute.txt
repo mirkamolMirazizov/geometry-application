@@ -1,0 +1,12 @@
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\bin\Debug\net8.0\classLibrary.deps.json
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\bin\Debug\net8.0\classLibrary.dll
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\bin\Debug\net8.0\classLibrary.pdb
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.csproj.AssemblyReference.cache
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.AssemblyInfoInputs.cache
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.AssemblyInfo.cs
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.csproj.CoreCompileInputs.cache
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.dll
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\refint\classLibrary.dll
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\classLibrary.pdb
+C:\Users\miraz\OneDrive\Desktop\Solution file\classLibrary\obj\Debug\net8.0\ref\classLibrary.dll
